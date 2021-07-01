@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @johnbroberson
 - 👀 I’m interested in campaign finance
 - 🌱 I’m currently learning web design
-- 📫 How to reach me: [twitter.com/johnbroberson](twitter.com/johnbroberson)
+- 📫 How to reach me: [twitter.com/johnbroberson](https://www.twitter.com/johnbroberson)
 
 <!---
 johnbroberson/johnbroberson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
