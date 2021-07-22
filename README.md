@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johnbroberson
-- 👀 I’m interested in campaign finance
-- 🌱 I’m currently learning web design
+- 👀 I work in campaign finance
+- 🌱 I'm self-taught in web design
 - 📫 How to reach me: [twitter.com/johnbroberson](https://www.twitter.com/johnbroberson)
 
 <!---
